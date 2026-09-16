@@ -90,10 +90,3 @@ Tampilan dan perilaku izin dapat berbeda tergantung versi Android dan kebijakan 
 
 ---
 
-## Lisensi
-
-Aplikasi ini disediakan untuk keperluan pribadi. Dilarang memperjualbelikan tanpa izin.
-
----
-
-*HadeKamory — tenang, ringan, dan bekerja dalam senyap.*
