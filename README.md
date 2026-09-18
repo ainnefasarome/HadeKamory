@@ -8,9 +8,7 @@ Dirancang untuk menjadi sederhana, ringan, dan dapat diandalkan dalam situasi se
 
 ## Tentang Aplikasi
 
-HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik atau kendala tombol atau rusak.
-
-Aplikasi ini tidak memiliki tampilan, tidak memiliki menu, dan tidak memiliki pengaturan. Ia bekerja dalam senyap, hanya menunggu satu sentuhan untuk menjalankan tugasnya.
+HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik atau kendala tombol fisik rusak.dijalankan ini tidak memiliki tampilan, tidak memiliki menu, dan tidak memiliki pengaturan. Ia bekerja dalam senyap, hanya menunggu satu sentuhan untuk menjalankan tugasnya.
 
 ---
 
@@ -24,7 +22,7 @@ Hasilnya: layar mati seketika, tanpa hambatan.
 
 ## Izin Admin Perangkat
 
-Saat pertama kali dijalankan, HadeKamory akan meminta izin **Admin Perangkat** (Device Administrator).
+Saat pertama kali menginstall/menjalankan, HadeKamory akan meminta izin **Admin Perangkat** (Device Administrator).
 
 Izin ini diperlukan agar aplikasi dapat menjalankan fungsinya dengan benar, yaitu mematikan layar secara langsung melalui sistem Android.
 
@@ -41,7 +39,7 @@ Izin ini bersifat aman dan hanya digunakan untuk keperluan mematikan layar. Apli
 - Cepat — satu sentuhan, layar langsung mati
 - Sederhana — tanpa pengaturan, tanpa kerumitan
 - Universal — dapat berjalan dari Android 1 hingga Android 14
-- Praktis — membantu ketika tombol daya fisik sulit dijangkau
+- Praktis — membantu ketika tombol daya fisik sulit dijangkau atau rusak
 
 ---
 
@@ -49,7 +47,7 @@ Izin ini bersifat aman dan hanya digunakan untuk keperluan mematikan layar. Apli
 
 1. Unduh berkas APK dari halaman **Releases**.
 2. Pasang aplikasi seperti biasa.
-3. Buka aplikasi melalui ikon di daftar aplikasi.
+3. klik icon di daftar aplikasi.
 4. Saat pertama kali, izinkan permintaan **Admin Perangkat**.
 5. Aplikasi siap digunakan.
 6. Mulai saat itu, cukup sentuh ikonnya untuk mematikan layar.
@@ -68,7 +66,7 @@ HadeKamory dibuat untuk mereka. Sebuah solusi kecil dari perangkat lunak, agar a
 
 ## Unduh
 
-Silakan kunjungi halaman **Releases** pada repositori ini untuk mengunduh versi terbaru.
+Silakan kunjungi halaman **Releases** pada repositori ini untuk mengunduh.
 
 ---
 
