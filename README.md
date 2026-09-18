@@ -8,7 +8,7 @@ Dirancang untuk menjadi sederhana, ringan, dan dapat diandalkan dalam situasi se
 
 ## Tentang Aplikasi
 
-HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik.
+HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik atau kendala tombol atau rusak.
 
 Aplikasi ini tidak memiliki tampilan, tidak memiliki menu, dan tidak memiliki pengaturan. Ia bekerja dalam senyap, hanya menunggu satu sentuhan untuk menjalankan tugasnya.
 
