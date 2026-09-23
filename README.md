@@ -46,7 +46,7 @@ Dirancang untuk menjadi sederhana, ringan, dan dapat diandalkan dalam situasi se
 - **Cepat** — Satu sentuhan, layar langsung mati.
 - **Sederhana** — Tanpa pengaturan, tanpa kerumitan.
 - **Universal** — Dapat berjalan dari Android 1 hingga Android 14.
-- **Praktis** — Membantu ketika tombol daya fisik sulit dijangkau.
+- **Praktis** — Membantu ketika tombol daya rusak, atau sulit di jangkau.
 
 ---
 
@@ -76,8 +76,8 @@ Setelah izin diberikan satu kali, aplikasi langsung siap digunakan. Tidak ada pe
 
 1. Unduh berkas APK dari halaman **[Releases](https://github.com/ainnefasarome/HadeKamory/releases)**.
 2. Pasang aplikasi seperti biasa.
-3. Buka aplikasi melalui ikon di daftar aplikasi.
-4. Saat pertama kali, izinkan permintaan **Admin Perangkat**.
+3. klik icon aplikasi HadeKamory
+4. Saat pertama kali di klik, aplikasi HadeKamory akan otomatis meminta izin Admin Perangkat, izinkan permintaan tersebut agar aplikasi berfungsi.
 5. Aplikasi siap digunakan.
 6. Mulai saat itu, cukup sentuh ikonnya untuk mematikan layar.
 
@@ -119,9 +119,8 @@ Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
 
 ## Lisensi
 
-Aplikasi ini disediakan untuk keperluan pribadi. Dilarang memperjualbelikan tanpa izin.
+Aplikasi ini dirilis untuk keperluan pribadi. Hak cipta tetap milik pengembang.
 
-Lihat file `LICENSE` untuk informasi lebih lanjut.
 
 ---
 
