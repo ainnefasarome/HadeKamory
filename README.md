@@ -117,11 +117,5 @@ Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
 
 ---
 
-## Lisensi
-
-Aplikasi ini dirilis untuk keperluan pribadi. Hak cipta tetap milik pengembang.
-
-
----
 
 *HadeKamory — tenang, ringan, dan bekerja dalam senyap.*
