@@ -1,14 +1,52 @@
 # HadeKamory
 
-Sebuah aplikasi Android tanpa antarmuka yang memungkinkan layar perangkat dimatikan hanya dengan satu sentuhan pada ikonnya.
+<p align="center">
+  <img src="icon-HadeKamory.png" alt="HadeKamory Icon" width="150">
+</p>
 
-Dirancang untuk menjadi sederhana, ringan, dan dapat diandalkan dalam situasi sehari-hari.
+<p align="center">
+  <b>Sebuah aplikasi Android tanpa antarmuka yang memungkinkan layar perangkat dimatikan hanya dengan satu sentuhan pada ikonnya.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-1%20--%2014-green" alt="Android Support">
+  <img src="https://img.shields.io/badge/License-Personal-red" alt="License">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
+</p>
+
+---
+
+## Daftar Isi
+- [Tentang Aplikasi](#tentang-aplikasi)
+- [Fitur](#fitur)
+- [Cara Kerja](#cara-kerja)
+- [Izin Admin Perangkat](#izin-admin-perangkat)
+- [Cara Menggunakan](#cara-menggunakan)
+- [Kompatibilitas](#kompatibilitas)
+- [FAQ](#faq)
+- [Unduh](#unduh)
+- [Lisensi](#lisensi)
 
 ---
 
 ## Tentang Aplikasi
 
-HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik atau kendala tombol fisik rusak.dijalankan ini tidak memiliki tampilan, tidak memiliki menu, dan tidak memiliki pengaturan. Ia bekerja dalam senyap, hanya menunggu satu sentuhan untuk menjalankan tugasnya.
+HadeKamory hadir sebagai alternatif tenang bagi pengguna yang membutuhkan cara praktis untuk mematikan layar tanpa harus menekan tombol daya fisik.
+
+Aplikasi ini tidak memiliki tampilan, tidak memiliki menu, dan tidak memiliki pengaturan. Ia bekerja dalam senyap, hanya menunggu satu sentuhan untuk menjalankan tugasnya.
+
+Dirancang untuk menjadi sederhana, ringan, dan dapat diandalkan dalam situasi sehari-hari.
+
+---
+
+## Fitur
+
+- **Tanpa Antarmuka** — Tidak ada menu atau tampilan yang mengganggu pandangan.
+- **Ringan** — Tidak membebani sistem perangkat.
+- **Cepat** — Satu sentuhan, layar langsung mati.
+- **Sederhana** — Tanpa pengaturan, tanpa kerumitan.
+- **Universal** — Dapat berjalan dari Android 1 hingga Android 14.
+- **Praktis** — Membantu ketika tombol daya fisik sulit dijangkau.
 
 ---
 
@@ -22,61 +60,28 @@ Hasilnya: layar mati seketika, tanpa hambatan.
 
 ## Izin Admin Perangkat
 
-Saat pertama kali menginstall/menjalankan, HadeKamory akan meminta izin **Admin Perangkat** (Device Administrator).
+Saat pertama kali dijalankan, HadeKamory akan meminta izin **Admin Perangkat** (Device Administrator).
 
 Izin ini diperlukan agar aplikasi dapat menjalankan fungsinya dengan benar, yaitu mematikan layar secara langsung melalui sistem Android.
 
+- **Aman:** Hanya digunakan untuk keperluan mematikan layar.
+- **Privasi:** Aplikasi tidak mengakses data pribadi.
+- **Offline:** Tidak terhubung ke internet dan tidak melakukan aktivitas lain di luar fungsinya.
+
 Setelah izin diberikan satu kali, aplikasi langsung siap digunakan. Tidak ada pengaturan tambahan, tidak ada langkah lanjutan yang rumit.
-
-Izin ini bersifat aman dan hanya digunakan untuk keperluan mematikan layar. Aplikasi tidak mengakses data pribadi, tidak terhubung ke internet, dan tidak melakukan aktivitas lain di luar fungsinya.
-
----
-
-## Keunggulan
-
-- Tanpa antarmuka — tidak ada yang mengganggu pandangan
-- Ringan — tidak membebani sistem
-- Cepat — satu sentuhan, layar langsung mati
-- Sederhana — tanpa pengaturan, tanpa kerumitan
-- Universal — dapat berjalan dari Android 1 hingga Android 14
-- Praktis — membantu ketika tombol daya fisik sulit dijangkau atau rusak
 
 ---
 
 ## Cara Menggunakan
 
-1. Unduh berkas APK dari halaman **Releases**.
+1. Unduh berkas APK dari halaman **[Releases](https://github.com/ainnefasarome/HadeKamory/releases)**.
 2. Pasang aplikasi seperti biasa.
-3. klik icon di daftar aplikasi.
+3. Buka aplikasi melalui ikon di daftar aplikasi.
 4. Saat pertama kali, izinkan permintaan **Admin Perangkat**.
 5. Aplikasi siap digunakan.
 6. Mulai saat itu, cukup sentuh ikonnya untuk mematikan layar.
 
-Untuk kemudahan, ikon aplikasi dapat ditambahkan ke layar utama.
-
----
-
-## Tujuan
-
-Tidak semua orang memiliki tombol daya yang berfungsi dengan baik. Ada yang tombolnya rusak, macet, atau sulit ditekan. Ada pula yang hanya ingin cara yang lebih ringan untuk mematikan layar.
-
-HadeKamory dibuat untuk mereka. Sebuah solusi kecil dari perangkat lunak, agar aktivitas sehari-hari tetap berjalan tanpa hambatan.
-
----
-
-## Unduh
-
-Silakan kunjungi halaman **Releases** pada repositori ini untuk mengunduh.
-
----
-
-## Catatan
-
-Aplikasi ini tidak memperbaiki kerusakan perangkat keras. Ia hanya menyediakan alternatif melalui perangkat lunak.
-
-Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
-
-Tampilan dan perilaku izin dapat berbeda tergantung versi Android dan kebijakan masing-masing perangkat.
+*Tips: Untuk kemudahan, ikon aplikasi dapat ditambahkan ke layar utama.*
 
 ---
 
@@ -88,3 +93,36 @@ Tampilan dan perilaku izin dapat berbeda tergantung versi Android dan kebijakan 
 
 ---
 
+## FAQ
+
+**Apakah aplikasi ini aman?**
+Ya. Aplikasi ini tidak memiliki akses internet dan tidak mengumpulkan data pribadi apa pun.
+
+**Apa yang terjadi jika izin Admin Perangkat dicabut?**
+Aplikasi tidak akan bisa mematikan layar. Kamu perlu memberikan izin kembali agar fiturnya berfungsi.
+
+**Apakah aplikasi ini bisa memperbaiki tombol daya yang rusak?**
+Tidak. Aplikasi ini hanya menyediakan alternatif melalui perangkat lunak, bukan memperbaiki kerusakan perangkat keras.
+
+**Mengapa tidak ada tampilan di aplikasi?**
+Karena konsepnya memang "tanpa antarmuka". Tujuannya agar aplikasi tetap ringan dan langsung bekerja saat ikon disentuh.
+
+---
+
+## Unduh
+
+Silakan kunjungi halaman **[Releases](https://github.com/ainnefasarome/HadeKamory/releases)** pada repositori ini untuk mengunduh versi terbaru.
+
+Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
+
+---
+
+## Lisensi
+
+Aplikasi ini disediakan untuk keperluan pribadi. Dilarang memperjualbelikan tanpa izin.
+
+Lihat file `LICENSE` untuk informasi lebih lanjut.
+
+---
+
+*HadeKamory — tenang, ringan, dan bekerja dalam senyap.*
