@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-1%20--%2014-green" alt="Android Support">
-  <img src="https://img.shields.io/badge/License-Personal-red" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
 </p>
 
@@ -119,3 +119,13 @@ Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
 
 
 *HadeKamory — tenang, ringan, dan bekerja dalam senyap.*
+
+---
+
+## Lisensi
+
+Repositori ini dipakai untuk dokumentasi dan distribusi rilis APK. Dirilis di bawah [Lisensi MIT](LICENSE).
+
+---
+
+<p align="center">Dibuat oleh <a href="https://ainnefasarome.github.io/Banghans.dev/">Banghans</a> · Hans Developer</p>
